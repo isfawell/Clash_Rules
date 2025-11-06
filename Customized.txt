@@ -2,5 +2,4 @@
 payload:
   - '+.sgameglobal.com'
   - '+.gamelet.games'
-  - '+.hok5v5.com'
   - '+.honorofkings.com'
