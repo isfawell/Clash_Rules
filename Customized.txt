@@ -1,5 +1,4 @@
 # 自定义域名
 payload:
   - '+.sgameglobal.com'
- - '+.intlgame.com'
-  - '+.honorofkings.com'
+  - '+.intlgame.com'
