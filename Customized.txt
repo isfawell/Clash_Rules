@@ -3,4 +3,3 @@ payload:
   - '+.sgameglobal.com'
   - '+.gamelet.games'
   - '+.tencent.com'
-  - '+.singaporepaya.com'
