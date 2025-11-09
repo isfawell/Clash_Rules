@@ -1,9 +1,18 @@
 # 自定义域名
 payload:
   - '+.sgameglobal.com'
+
+  - '+.intlgame.com'
+  - '+.honorofkings.com'
+
+  - '+.gamelet.games'
+  - '+.tencent.com'
+  - '+.singaporepaya.com'
+
   - '+.playerinfinite.com'
   - '+.gcloudcs.com'
   - '+.anticheatexpert.com'
+
   - '+.vasdgame.com'
   - '+.wetest.net'
   - '+.appsflyersdk.com'
